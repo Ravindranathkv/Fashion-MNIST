@@ -4,7 +4,7 @@
 - The Fashion-MNIST project aims to classify images of fashion items into 10 distinct categories using deep learning techniques. This project uses the Fashion MNIST dataset, which includes 60,000 training and 10,000 test grayscale images, each of size 28x28 pixels.
 
 # Goal
-- To develop a model that surpasses the baseline performance by accurately classifying fashion images into categories such as T-shirts, trousers, dresses, etc., with a targeted improvement in model accuracy to reach an F1 score between 92-95%.
+- To develop a model that surpasses the baseline performance by accurately classifying fashion images such as T-shirts, trousers, dresses, etc., with a targeted improvement in model accuracy to reach an F1 score between 92-95%.
 
 # Data Description
 - The Fashion MNIST dataset comprises grayscale images in 10 categories, representing a diverse range of fashion products. Each 28x28 pixel image is classified into one of the following categories: T-shirts/tops, trousers, pullovers, dresses, coats, sandals, shirts, sneakers, bags, and ankle boots.
